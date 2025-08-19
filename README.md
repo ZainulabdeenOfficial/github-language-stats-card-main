@@ -42,6 +42,9 @@ Parameters:
 - `wakatime_share_id` (optional): ID from a public WakaTime share URL
 - `theme` (optional): `light` or `dark`
 
+## Examples
+![GitHub Language Stats](https://testlangauge.vercel.app/api/card?username=ExploitEngineer&theme=tokyonight)
+
 ## Deploy on Vercel
 
 - Push this project to GitHub.
