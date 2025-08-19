@@ -1,3 +1,7 @@
+
+![GitHub Language Stats Banner](https://github.com/ZainulabdeenOfficial/github-language-stats-card-main/blob/main/banner.jpg?raw=true)
+
+
 # GitHub Language Stats Card
 
 Generate an embeddable SVG card showing your GitHub language usage, estimated lines of code, and optional WakaTime hours. Includes a web UI to preview and copy Markdown.
