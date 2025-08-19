@@ -49,6 +49,8 @@ Parameters:
 
 ![GitHub Language Stats](https://testlangauge.vercel.app/api/card?username=ZainulabdeenOfficial&theme=tokyonight)
 
+![GitHub Language Stats](https://github-language-stats-card-main.vercel.app/api/card?username=ExploitEngineer&theme=github)
+
 ## Deploy on Vercel
 
 - Push this project to GitHub.
